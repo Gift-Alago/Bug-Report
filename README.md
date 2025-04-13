@@ -62,10 +62,10 @@ As a customer advocate, I serve as a bridge between stakeholders and customers. 
 - At checkout, the hyphen is omitted and the value becomes positive.
 
 
-![Actual Result](./assets/actaul-result1.png)
+![Actual Result](./assets/actual-result1.png)
 **The cart total at the top right corner of the screen**
 
-![Actual Result](./assets/actaul-result2.png)
+![Actual Result](./assets/actual-result2.png)
 **Cart checkout**
 
 ---
@@ -106,10 +106,10 @@ As a customer advocate, I serve as a bridge between stakeholders and customers. 
 ## 📸 Attachments
 
 
-![Actual Result](./assets/actaul-result1.png)
+![Actual Result](./assets/actual-result1.png)
 **The cart total at the top right**
 
-![Actual Result](./assets/actaul-result2.png)
+![Actual Result](./assets/actual-result2.png)
 **Checkout the cart**
 
 
